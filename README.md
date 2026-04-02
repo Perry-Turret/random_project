@@ -1,6 +1,6 @@
 # Interactive Diary Thing
 
-Uh… a random C++ project I made 😅  
+Uh… a random C++ project I made
 It lets you type diary entries, check them, and save to a text file. Only works on Windows!  
 
 **Features:**  
